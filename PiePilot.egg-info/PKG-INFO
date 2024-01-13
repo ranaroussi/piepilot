@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: PiePilot
+Version: 0.0.2
+Summary: Simple portfolio optimizer
+Home-page: https://github.com/ranaroussi/piepilot
+Author: Ran Aroussi
+Author-email: ran@aroussi.com
+License: Apache Software License
+Keywords: quant algotrading portfolio optimizer algorithmic-trading
+                quantitative-trading quantitative-analysis algo-trading visualization
+Platform: any
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Development Status :: 1 - Planning
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Financial and Insurance Industry
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Office/Business :: Financial
+Classifier: Topic :: Office/Business :: Financial :: Investment
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+License-File: LICENSE.txt
+
+TBD
+
+
